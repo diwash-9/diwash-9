@@ -1,4 +1,4 @@
-# 💫 Hi, I’m Diwash!  
+# 💫 Hi, I’m Devraj!  
 
 🎓 CSIT Undergrad from Nepal | **Mastering Java & Spring Boot**, building backend projects, and exploring tech along the way.  
 💡 Currently focused on **becoming a proficient Java backend developer** while keeping other skills as side quests.  
