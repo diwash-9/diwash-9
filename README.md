@@ -52,7 +52,7 @@ matchday/  -> tournament manager [Next.js + Prisma + Turso]
 
 ```bash
 $ connect --open
-# update these with your links
+LinkedIn: https://www.linkedin.com/in/devrajkhatiwada/
 ```
 
 <p align="center">
