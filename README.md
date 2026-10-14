@@ -87,7 +87,7 @@ matchday/
 <p align="center">
   <a href="https://github.com/diwash-9"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" /></a>
   <a href="https://www.linkedin.com/in/devrajkhatiwada"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88" /></a>
-  <a href="mailto:devrajkhatiwada004@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88" /></a>
+  <a href="mailto:devrajkhatiwada003@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88" /></a>
 </p>
 
 <p align="center">
