@@ -68,7 +68,7 @@ matchday/
 
 <p align="center">
   <a href="https://github.com/diwash-9/bidhan"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=diwash-9&repo=bidhan&theme=tokyonight&hide_border=true&border_radius=8&title_color=00ff88&icon_color=00ff88" /></a>
-  <a href="https://github.com/diwash-9/matchday"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=diwash-9&repo=matchday&theme=tokyonight&hide_border=true&border_radius=8&title_color=00ff88&icon_color=00ff88" /></a>
+  <a href="https://github.com/diwash-9/omarchy-bsdate"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=diwash-9&repo=matchday&theme=tokyonight&hide_border=true&border_radius=8&title_color=00ff88&icon_color=00ff88" /></a>
 </p>
 
 ### `$ stats`
