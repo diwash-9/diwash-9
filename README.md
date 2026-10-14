@@ -8,16 +8,24 @@
 
 ```bash
 $ whoami
-> devraj — CSIT undergrad, Nepal
-> currently learning Java + Spring Boot
-> also work with TypeScript, React, Python
+> devraj
+> compiling the degree, shipping the projects
+> occasionally letting the AI drive
+
+$ stack --current
+> TypeScript · React · Python
+> building things that work, debugging things that don't
 
 $ cat focus.txt
-- Java, Spring Boot, REST APIs
-- DSA, OOP, DBMS basics
-- full-stack projects with Next.js / FastAPI
-```
+- REST APIs & backend architecture
+- DSA, OOP & database fundamentals
+- Full-stack development with Next.js / FastAPI
 
+$ git status
+> still learning
+> still shipping
+> definitely not done
+```
 ### $ stack --list
 
 [![Skills](https://skillicons.dev/icons?i=java,spring,ts,js,py,react,nextjs,tailwind,nodejs,fastapi,postgres,mysql,mongodb,sqlite,prisma,docker,git,postman,linux&theme=dark)](https://skillicons.dev)
@@ -56,6 +64,6 @@ $ connect --open
 
 <p align="center">
   <a href="https://github.com/diwash-9"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" /></a>
-  <a href="https://www.linkedin.com/in/devrajkhatiwada"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88" />/</a>
+  <a href="https://www.linkedin.com/in/devrajkhatiwada"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88" /></a>
   <a href="mailto:devrajkhatiwada004@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88" /></a>
 </p>
