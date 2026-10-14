@@ -56,7 +56,7 @@ LinkedIn: https://www.linkedin.com/in/devrajkhatiwada/
 ```
 
 <p align="center">
-  <a href="https://github.com/diwash-9"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" />https://github.com/diwash-9</a>
-  <a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88" />https://www.linkedin.com/in/devrajkhatiwada/</a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88" />devrajkhatiwada004@gmail.com</a>
+  <a href="https://github.com/diwash-9"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" /></a>
+  <a href="https://www.linkedin.com/in/devrajkhatiwada"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88" />/</a>
+  <a href="mailto:devrajkhatiwada004@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88" /></a>
 </p>
